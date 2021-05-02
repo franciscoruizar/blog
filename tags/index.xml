@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Francisco Ruiz</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Francisco Ruiz</description>
+    <image>
+      <url>/icon.png</url>
+      <link>/icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AFIP</title>
+      <link>/tags/afip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/afip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>/tags/android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clean Architecture</title>
+      <link>/tags/clean-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/clean-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDD</title>
+      <link>/tags/ddd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessign patterns</title>
+      <link>/tags/dessign-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dessign-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Events</title>
+      <link>/tags/domain-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/domain-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>/tags/mysql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ports and Adapters</title>
+      <link>/tags/ports-and-adapters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ports-and-adapters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>/tags/redis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDK</title>
+      <link>/tags/sdk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOAP</title>
+      <link>/tags/soap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/soap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDD</title>
+      <link>/tags/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tests</title>
+      <link>/tags/tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tests/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DDD on Francisco Ruiz</title>
+    <link>/tags/ddd/</link>
+    <description>Recent content in DDD on Francisco Ruiz</description>
+    <image>
+      <url>/icon.png</url>
+      <link>/icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java DDD Template</title>
+      <link>/projects/java-ddd-template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/java-ddd-template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URL Shortener</title>
+      <link>/projects/url-shortener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/url-shortener/</guid>
+      <description>🎯 Objetivos  Dada una URL larga, mi servicio me tiene que devolver una URL corta. Puedan obtenerse estadísticas de las URLs que utilizan este servicio. Puedan manejarse solicitudes a gran escala. Puedan borrarse las URLs cortas necesarias. Y lógicamente, que el usuario navegue hacia la URL larga cuando ingresa una url corta válida en su navegador  🤔 Problemas que se nos presentan  Términos a gran escalabilidad → 50.</description>
+    </item>
+    
+  </channel>
+</rss>

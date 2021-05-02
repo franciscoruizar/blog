@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dessign patterns on Francisco Ruiz</title>
+    <link>/tags/dessign-patterns/</link>
+    <description>Recent content in dessign patterns on Francisco Ruiz</description>
+    <image>
+      <url>/icon.png</url>
+      <link>/icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/dessign-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patrones de diseño en dos minutos: ¿Qué es un patrón de diseño?</title>
+      <link>/posts/dessign-pattern-in-two-minutes-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dessign-pattern-in-two-minutes-1/</guid>
+      <description>¡Hola a todxs! Hoy les presentaré la serie de Patrones de diseño en dos minutos de lectura. El objetivo es explicar de forma concreta y concisa los distintos patrones disponibles, al menos en programación orientada a objetos. Arranquemos.
+Hoy nos preguntamos ¿qué es y cómo se constituye un patrón de diseño?
+Cada patrón describe un problema que ocurre una y otra vez en nuestro entorno. Así como la solución a ese problema, de tal modo que se pueda aplicar esta solución un millón de veces, sin hacer lo mismo dos veces.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://franciscoruiz.ar/"
 title: Francisco Ruiz
 paginate: 5
 theme: PaperMod
@@ -15,7 +15,7 @@ minify:
     minifyOutput: true
 
 params:
-    env: development # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Francisco Ruiz
     description: "Francisco Ruiz Backend Developer"
     keywords: [Blog, Portfolio]

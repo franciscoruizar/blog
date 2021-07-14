@@ -3,31 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/afip/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/afip-sdk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/android/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/clean-architecture/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/ddd/</loc>
   </url>
   
   <url>
@@ -35,27 +11,11 @@
   </url>
   
   <url>
-    <loc>/tags/domain-events/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/ecopuntos/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
   </url>
   
   <url>
-    <loc>/tags/java/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/java-ddd-template/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/mysql/</loc>
+    <loc>/posts/dessign-pattern-in-two-minutes-2/</loc>
   </url>
   
   <url>
@@ -63,43 +23,15 @@
   </url>
   
   <url>
-    <loc>/tags/ports-and-adapters/</loc>
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
   </url>
   
   <url>
-    <loc>/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/redis/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/sdk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/soap/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/tdd/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/tests/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/url-shortener/</loc>
   </url>
   
 </urlset>

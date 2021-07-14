@@ -10,6 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/dessign-patterns/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Patrones de diseño en dos minutos: Descripción de los patrones de diseño</title>
+      <link>/posts/dessign-pattern-in-two-minutes-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dessign-pattern-in-two-minutes-2/</guid>
+      <description>¡Hola a todxs! Hoy les presentaré la serie de Patrones de diseño en dos minutos de lectura. El objetivo es explicar de forma concreta y concisa los distintos patrones disponibles, al menos en programación orientada a objetos. Arranquemos.
+Hoy nos cuestionamos ¿Cómo describimos los patrones de diseño? El gran olvidado UML y todos los conceptos del paradigma orientado a objetos toma gran relevancia. Es muy importante que a la hora de analizar los patrones se tome en cuenta el contexto de nuestro problema y diseño de nuestra posible solución, por ello utilizaremos el siguiente punteo para aprender, comparar y usar de manera sencilla:</description>
+    </item>
+    
+    <item>
       <title>Patrones de diseño en dos minutos: ¿Qué es un patrón de diseño?</title>
       <link>/posts/dessign-pattern-in-two-minutes-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

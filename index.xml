@@ -10,40 +10,13 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Afip SDK</title>
-      <link>/projects/afip-sdk/</link>
+      <title>Patrones de diseño en dos minutos: Descripción de los patrones de diseño</title>
+      <link>/posts/dessign-pattern-in-two-minutes-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/afip-sdk/</guid>
-      <description>ℹ️ Introduction Library to connect to the AFIP Web Services
-🏁 How To Start  Install Java 11 Clone this repository: https://github.com/franciscoruizar/afip-sdk. Generate a certificate and private keys for AFIP: Read more Execute some Gradle lifecycle tasks in order to check everything is OK:  Create the project JAR: make build Run the tests and plugins verification tasks: make run-tests    ☝️ How to update dependencies  Gradle (releases): .</description>
-    </item>
-    
-    <item>
-      <title>Backend Developer</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>👩‍💻 Trabajando en remoto 🏡 desde Buenos Aires, Argentina</description>
-    </item>
-    
-    <item>
-      <title>EcoPuntos</title>
-      <link>/projects/ecopuntos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/ecopuntos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java DDD Template</title>
-      <link>/projects/java-ddd-template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/java-ddd-template/</guid>
-      <description></description>
+      <guid>/posts/dessign-pattern-in-two-minutes-2/</guid>
+      <description>¡Hola a todxs! Hoy les presentaré la serie de Patrones de diseño en dos minutos de lectura. El objetivo es explicar de forma concreta y concisa los distintos patrones disponibles, al menos en programación orientada a objetos. Arranquemos.
+Hoy nos cuestionamos ¿Cómo describimos los patrones de diseño? El gran olvidado UML y todos los conceptos del paradigma orientado a objetos toma gran relevancia. Es muy importante que a la hora de analizar los patrones se tome en cuenta el contexto de nuestro problema y diseño de nuestra posible solución, por ello utilizaremos el siguiente punteo para aprender, comparar y usar de manera sencilla:</description>
     </item>
     
     <item>
@@ -58,12 +31,12 @@ Cada patrón describe un problema que ocurre una y otra vez en nuestro entorno. 
     </item>
     
     <item>
-      <title>URL Shortener</title>
-      <link>/projects/url-shortener/</link>
+      <title>Software Development Analyst</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/url-shortener/</guid>
-      <description>🎯 Objetivos  Dada una URL larga, mi servicio me tiene que devolver una URL corta. Puedan obtenerse estadísticas de las URLs que utilizan este servicio. Puedan manejarse solicitudes a gran escala. Puedan borrarse las URLs cortas necesarias. Y lógicamente, que el usuario navegue hacia la URL larga cuando ingresa una url corta válida en su navegador  🤔 Problemas que se nos presentan  Términos a gran escalabilidad → 50.</description>
+      <guid>/about/</guid>
+      <description>🏡 Buenos Aires, Argentina</description>
     </item>
     
   </channel>

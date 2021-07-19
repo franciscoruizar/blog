@@ -65,7 +65,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hola! \U0001F44B"
-        Content: "Soy Software Development Analyst con experiencia en la construcción de software para diferentes industrias. Me especializo en el desarrollo de software con perspectiva en los patrones y arquitectura de diseño, aplicando Clean Code, SOLID, TDD y Clean Architecture. ¡Echa un vistazo a mi trabajo o ponte en contacto!"
+        Content: "¡Hola! 👋 Soy Francisco, Software Development Analyst en @MercadoLibre con perspectiva en desarrollo de software con patrones y arquitectura de diseño, aplicando Clean Code, SOLID, TDD y Clean Architecture. ¡Echa un vistazo a mi trabajo o ponte en contacto!"
 
     socialIcons:
         - name: email

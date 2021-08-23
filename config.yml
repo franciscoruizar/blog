@@ -17,7 +17,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Francisco Ruiz
-    description: "Francisco Ruiz Backend Developer"
+    description: "Francisco Ruiz Software Developer"
     keywords: [Blog, Portfolio]
     author: Me
     images: ["/icon.png"]
@@ -38,8 +38,6 @@ params:
     tocopen: false
 
     assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
         favicon: "/icon.png"
         favicon16x16: "/icon.png"
         favicon32x32: "/icon.png"
@@ -65,15 +63,15 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hola! \U0001F44B"
-        Content: "Soy Francisco, Software Development Analyst en @MercadoLibre con perspectiva en desarrollo de software con patrones y arquitectura de diseño, aplicando Clean Code, SOLID, TDD y Clean Architecture. ¡Echa un vistazo a mi trabajo o ponte en contacto!"
+        Content: "Soy Francisco, desarrollador de software en @MercadoLibre. Me especializo en el desarrollo de software con perspectiva de diseño de patrones y arquitectura, aplicando Clean Code, SOLID, TDD y Clean Architecture. ¡Echa un vistazo a mi trabajo o ponte en contacto!"
 
     socialIcons:
         - name: email
           url: "mailto:franciscoruizlezcano@gmail.com"
         - name: linkedin
-          url: "https://linkedin.com/in/franciscoruizar"
+          url: "https://linkedin.com/in/franciscorzl"
         - name: github
-          url: "https://github.com/franciscoruizar"
+          url: "https://github.com/franciscorzl"
 
     analytics:
         google:
@@ -89,7 +87,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/franciscoruizar/blog/content"
+        URL: "https://github.com/franciscorzl/blog/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -105,10 +103,6 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: about
-          name: Sobre mí
-          url: /about
-          weight: 10
         - identifier: posts
           name: Posts
           url: /posts

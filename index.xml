@@ -25,9 +25,9 @@ Hoy nos cuestionamos ¿Cómo describimos los patrones de diseño? El gran olvida
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://franciscoruiz.ar/posts/dessign-pattern-in-two-minutes-3/</guid>
-      <description>¡Hola a todxs! Hoy presentaremos la serie de Patrones de diseño en dos minutos de lectura. El objetivo es explicar de forma concreta y concisa los distintos patrones disponibles, al menos en programación orientada a objetos. Arranquemos.
-Hoy nos cuestionamos ¿Cuales son y cómo se organizan los patrones que analizaremos?
-Clasificación El catálogo de patrones de diseño que analizaremos serán los siguientes, a su vez veremos cómo se organizan y cuáles son las relaciones entre ellos</description>
+      <description>¡Hola a todxs! Hoy presentaremos en la serie de Patrones de diseño en dos minutos de lectura cuáles son y cómo se organizan los patrones de diseño que analizaremos?
+Clasificación El catálogo de patrones de diseño que analizaremos serán los siguientes, a su vez veremos cómo se organizan y cuáles son las relaciones entre ellos
+ Abstract Factory: Proporciona una interfaz para crear familias de objetos relacionados o que dependen entre sí, sin especificar sus clases concretas Adapter: Convierte la interfaz de una clase en otra distinta que es la que esperan los clientes.</description>
     </item>
     
     <item>

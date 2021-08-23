@@ -7,10 +7,8 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-¡Hola a todxs! Hoy presentaremos la serie de **Patrones de diseño en dos minutos de lectura**. El objetivo es explicar
-de forma concreta y concisa los distintos patrones disponibles, al menos en programación orientada a objetos. Arranquemos.
+¡Hola a todxs! Hoy presentaremos en la serie de **Patrones de diseño en dos minutos de lectura** cuáles son y cómo se organizan los patrones de diseño que analizaremos?
 
-Hoy nos cuestionamos ¿Cuales son y cómo se organizan los patrones que analizaremos?
 ## Clasificación
 
 El catálogo de patrones de diseño que analizaremos serán los siguientes, a su vez veremos cómo se organizan y cuáles son las relaciones entre ellos
@@ -79,4 +77,4 @@ Por el otro lado, tenemos el criterio del **ámbito**, especificando si el patr�
 +-----------+--------+------------------+---------------+-------------------------+
 ```
 
-![dessign-pattern-in-two-minutes-3_1.jpeg](dessign-pattern-in-two-minutes-3_1.jpeg)
+![/dessign-pattern-in-two-minutes-3_1.jpeg](/dessign-pattern-in-two-minutes-3_1.jpeg)

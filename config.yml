@@ -53,7 +53,7 @@ params:
     profileMode:
         enabled: false # needs to be explicitly set
         title: Francisco Ruiz
-        subtitle: "Backend Developer"
+        subtitle: "Software Developer"
         imageUrl: /icon.png
         imageWidth: 120
         imageHeight: 120
@@ -63,7 +63,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hola! \U0001F44B"
-        Content: "Soy Francisco, desarrollador de software en @MercadoLibre. Me especializo en el desarrollo de software con perspectiva de diseño de patrones y arquitectura, aplicando Clean Code, SOLID, TDD y Clean Architecture. ¡Echa un vistazo a mi trabajo o ponte en contacto!"
+        Content: "Soy Francisco, Software Developer en @MercadoLibre. Me especializo en el desarrollo de software con perspectiva de diseño de patrones y arquitectura, aplicando Clean Code, SOLID, TDD y Clean Architecture. ¡Echa un vistazo a mi trabajo o ponte en contacto!"
 
     socialIcons:
         - name: email
